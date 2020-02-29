@@ -1,4 +1,4 @@
-module repo.afasari.id/basic_dockerize/proto/consignment
+module github.com/afasari/proto-pool/basic_dockerize/consignment
 
 go 1.14
 
