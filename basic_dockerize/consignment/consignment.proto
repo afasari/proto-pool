@@ -2,7 +2,7 @@
 syntax = "proto3";
 
 package consignment;
-option go_package = "consignmentpb";
+option go_package = "consignmentPb";
 
 service ShippingService {
     rpc CreateConsignment(Consignment) returns (Response) {}
